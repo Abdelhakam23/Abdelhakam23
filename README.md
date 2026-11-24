@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmoud%20Abdelhakam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=58&descSize=18&descColor=a0aec0&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhakam21/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudabdelhakam622@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelhakam23) [![Profile Views](https://komarev.com/ghpvc/?username=Abdelhakam23&style=for-the-badge&color=302b63)](https://github.com/Abdelhakam23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhakam21/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudabdelhakam622@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelhakam23) [![Portfolio](https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahmoudabdelhakam.dev/) [![Profile Views](https://komarev.com/ghpvc/?username=Abdelhakam23&style=for-the-badge&color=302b63)](https://github.com/Abdelhakam23)
 
 </div>
 
